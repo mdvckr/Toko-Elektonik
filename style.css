@@ -1,0 +1,117 @@
+body {
+    background: auto;
+    font-family: 'Segoe UI', sans-serif;
+    color: #333;
+}
+
+h1, h2, h3, h4 {
+    color: #1b4332;
+    font-weight: 600;
+}
+
+.custom-header {
+    background: linear-gradient(to right, #006400, #228B22, #32CD32);
+    color: white;
+    text-align: center;
+    padding: 1.8rem;
+    font-size: 2.2rem;
+    border-radius: 12px;
+    margin-bottom: 1.2rem;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+}
+
+section[data-testid="stSidebar"] {
+    background: linear-gradient(to bottom, #1b5e20, #388e3c);
+    color: white;
+}
+
+section[data-testid="stSidebar"] .css-1d391kg {
+    color: white !important;
+}
+
+.stButton > button {
+    background-color: #2e7d32;
+    color: #fff;
+    border-radius: 10px;
+    padding: 0.6rem 1.2rem;
+    border: none;
+    font-weight: bold;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: all 0.2s ease-in-out;
+}
+
+.stButton > button:hover {
+    background-color: #1b5e20;
+    transform: translateY(-1px) scale(1.03);
+}
+
+.stTextInput > div > div > input,
+.stNumberInput > div > div > input,
+.stSelectbox > div > div {
+    border-radius: 8px;
+    padding: 0.4rem 0.8rem;
+    border: 1px solid #ccc;
+}
+
+.css-1v0mbdj.e1tzin5v2 {
+    border: 1px solid #e0e0e0;
+    padding: 1.2rem;
+    border-radius: 15px;
+    margin-bottom: 1.6rem;
+    background-color: #ffffff;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    transition: transform 0.2s ease-in-out;
+}
+
+.css-1v0mbdj.e1tzin5v2:hover {
+    transform: scale(1.01);
+}
+
+img {
+    border-radius: 10px;
+    object-fit: cover;
+    max-height: 200px;
+    width: 100%;
+}
+
+.transaksi-box {
+    background-color: #ffffff;
+    border-left: 6px solid #43a047;
+    padding: 1.2rem;
+    margin-bottom: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+}
+
+.main .block-container {
+    padding: 2rem 5vw;
+}
+
+iframe {
+    border-radius: 14px;
+    border: 2px solid #43a047;
+    margin-top: 1rem;
+}
+
+thead, th {
+    background-color: #2e7d32;
+    color: white;
+    font-weight: 600;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 1rem;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.05);
+}
+
+td, th {
+    border: 1px solid #ddd;
+    padding: 0.75rem;
+    text-align: left;
+}
+
+tr:nth-child(even) {
+    background-color: #f2fef3;
+}

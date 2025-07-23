@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nama": "Laptop ASUS VivoBook 14",
+    "kategori": "Laptop",
+    "harga": 7500000,
+    "stok": 10,
+    "gambar": "asset/download.jpg"
+  },
+  {
+    "id": 2,
+    "nama": "HP Pavilion x360",
+    "kategori": "Laptop",
+    "harga": 8900000,
+    "stok": 7,
+    "gambar": "asset/HP Pavilion x360.jpg"
+  },
+  {
+    "id": 3,
+    "nama": "Samsung Galaxy S21",
+    "kategori": "HP",
+    "harga": 11999000,
+    "stok": 15,
+    "gambar": "asset/s21.jpg"
+  },
+  {
+    "id": 4,
+    "nama": "iPhone 13 Pro",
+    "kategori": "HP",
+    "harga": 16999000,
+    "stok": 5,
+    "gambar": "asset/iPhone 13 Pro.jpg"
+  },
+  {
+    "id": 5,
+    "nama": "Smart TV LG 55 inch",
+    "kategori": "TV",
+    "harga": 9500000,
+    "stok": 4,
+    "gambar": "asset/tv.jpg"
+  },
+  {
+    "id": 6,
+    "nama": "Samsung UHD TV 50 inch",
+    "kategori": "TV",
+    "harga": 8400000,
+    "stok": 6,
+    "gambar": "asset/Samsung UHD TV 50 inch.jpg"
+  },
+  {
+    "id": 7,
+    "nama": "Canon EOS M50",
+    "kategori": "Kamera",
+    "harga": 9500000,
+    "stok": 3,
+    "gambar": "asset/Canon EOS M50.jpg"
+  },
+  {
+    "id": 8,
+    "nama": "Sony Alpha a6400",
+    "kategori": "Kamera",
+    "harga": 12500000,
+    "stok": 2,
+    "gambar": "asset/sony.jpg"
+  },
+  {
+    "id": 9,
+    "nama": "Acer Aspire 5",
+    "kategori": "Laptop",
+    "harga": 6800000,
+    "stok": 8,
+    "gambar": "asset/acer.jpg"
+  },
+  {
+    "id": 10,
+    "nama": "Xiaomi Redmi Note 12",
+    "kategori": "HP",
+    "harga": 2999000,
+    "stok": 20,
+    "gambar": "asset/Redmi.jpg"
+  }
+]

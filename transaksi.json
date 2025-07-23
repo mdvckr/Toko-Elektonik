@@ -1,0 +1,71 @@
+[
+    {
+        "nama": "Laptop ASUS VivoBook 14",
+        "harga": 7500000,
+        "waktu": "2025-07-22 14:21:49",
+        "resi": "R-1209",
+        "lokasi": [
+            -7.2,
+            112.7
+        ]
+    },
+    {
+        "nama": "Laptop ASUS VivoBook 14",
+        "harga": 7500000,
+        "qty": 1,
+        "waktu": "2025-07-22 14:26:11",
+        "resi": "R-401117",
+        "lokasi": [
+            -6.9,
+            107.6
+        ]
+    },
+    {
+        "nama": "Laptop ASUS VivoBook 14",
+        "harga": 7500000,
+        "qty": 1,
+        "waktu": "2025-07-22 14:54:54",
+        "resi": "R-940146",
+        "lokasi": [
+            -7.2,
+            112.7
+        ]
+    },
+    {
+        "nama": "HP Pavilion x360",
+        "harga": 8900000,
+        "qty": 1,
+        "waktu": "2025-07-22 15:00:30",
+        "resi": "R-365999",
+        "lokasi": [
+            -7.2,
+            112.7
+        ]
+    },
+    {
+        "username": "user",
+        "nama": "Laptop ASUS VivoBook 14",
+        "harga": 7500000,
+        "qty": 1,
+        "waktu": "2025-07-22 15:05:03",
+        "resi": "R-276892",
+        "lokasi": [
+            -6.9,
+            107.6
+        ]
+    },
+    {
+        "username": "user",
+        "nama": "Laptop ASUS VivoBook 14",
+        "harga": 7500000,
+        "qty": 1,
+        "waktu": "2025-07-22 15:16:23",
+        "resi": "MOF4RFS402",
+        "lokasi": [
+            -6.9,
+            107.6
+        ],
+        "nama_penerima": "Rizqi",
+        "alamat": "Sleman"
+    }
+]
